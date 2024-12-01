@@ -48,3 +48,29 @@ C:\Users\ckevin.villamor\source\repos\Coins\Coins\bin\Debug\net8.0-windows\runti
 C:\Users\ckevin.villamor\source\repos\Coins\Coins\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
 C:\Users\ckevin.villamor\source\repos\Coins\Coins\obj\Debug\net8.0-windows\Coins.csproj.AssemblyReference.cache
 C:\Users\ckevin.villamor\source\repos\Coins\Coins\obj\Debug\net8.0-windows\Coins.csproj.Up2Date
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\obj\Debug\net8.0-windows\Coins.csproj.AssemblyReference.cache
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\obj\Debug\net8.0-windows\Coins.Main.resources
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\obj\Debug\net8.0-windows\Coins.Properties.Resources.resources
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\obj\Debug\net8.0-windows\Coins.csproj.GenerateResource.cache
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\obj\Debug\net8.0-windows\Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\obj\Debug\net8.0-windows\Coins.AssemblyInfoInputs.cache
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\obj\Debug\net8.0-windows\Coins.AssemblyInfo.cs
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\obj\Debug\net8.0-windows\Coins.csproj.CoreCompileInputs.cache
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\obj\Debug\net8.0-windows\Coins.sourcelink.json
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\bin\Debug\net8.0-windows\Coins.exe
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\bin\Debug\net8.0-windows\Coins.deps.json
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\bin\Debug\net8.0-windows\Coins.runtimeconfig.json
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\bin\Debug\net8.0-windows\Coins.dll
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\bin\Debug\net8.0-windows\Coins.pdb
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\obj\Debug\net8.0-windows\Coins.csproj.Up2Date
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\obj\Debug\net8.0-windows\Coins.dll
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\obj\Debug\net8.0-windows\refint\Coins.dll
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\obj\Debug\net8.0-windows\Coins.pdb
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\obj\Debug\net8.0-windows\Coins.genruntimeconfig.cache
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\obj\Debug\net8.0-windows\ref\Coins.dll
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\bin\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\Trinidad\Desktop\DIT\Intelligent Systems\dit831coinsimageprocessing\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll

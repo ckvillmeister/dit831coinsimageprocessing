@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ckevin.villamor\\source\\repos\\Coins\\Coins\\Coins.csproj": {}
+    "C:\\Users\\Trinidad\\Desktop\\DIT\\Intelligent Systems\\dit831coinsimageprocessing\\Coins.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ckevin.villamor\\source\\repos\\Coins\\Coins\\Coins.csproj": {
+    "C:\\Users\\Trinidad\\Desktop\\DIT\\Intelligent Systems\\dit831coinsimageprocessing\\Coins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ckevin.villamor\\source\\repos\\Coins\\Coins\\Coins.csproj",
+        "projectUniqueName": "C:\\Users\\Trinidad\\Desktop\\DIT\\Intelligent Systems\\dit831coinsimageprocessing\\Coins.csproj",
         "projectName": "Coins",
-        "projectPath": "C:\\Users\\ckevin.villamor\\source\\repos\\Coins\\Coins\\Coins.csproj",
-        "packagesPath": "C:\\Users\\ckevin.villamor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ckevin.villamor\\source\\repos\\Coins\\Coins\\obj\\",
+        "projectPath": "C:\\Users\\Trinidad\\Desktop\\DIT\\Intelligent Systems\\dit831coinsimageprocessing\\Coins.csproj",
+        "packagesPath": "C:\\Users\\Trinidad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Trinidad\\Desktop\\DIT\\Intelligent Systems\\dit831coinsimageprocessing\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ckevin.villamor\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Trinidad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,21 +38,24 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
-            "Emgu.CV": {
+            "OpenCvSharp4": {
               "target": "Package",
-              "version": "[4.9.0.5494, )"
+              "version": "[4.10.0.20241108, )"
             },
-            "Emgu.CV.runtime.windows": {
+            "OpenCvSharp4.Extensions": {
               "target": "Package",
-              "version": "[4.9.0.5494, )"
+              "version": "[4.10.0.20241108, )"
+            },
+            "OpenCvSharp4.runtime.win": {
+              "target": "Package",
+              "version": "[4.10.0.20241108, )"
             }
           },
           "imports": [
@@ -78,7 +77,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
